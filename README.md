@@ -11,7 +11,7 @@
 ---
 
 ### ☁️ About Me
-- 🎓 **Studying:** Information And Communication Technology @ University of Vauniya
+- 🎓 **Studying:** Information And Communication Technology @ University of Vavuniya
 - 🎨 **Interests:** Web Accessibility, Design Systems, and Coffee & Code
 - 💬 **Ask me about:** Java, C#, CSS tricks, and cute workspace setups!
 - 📫 **How to reach me:** manulidiwyangi@gmail.com
