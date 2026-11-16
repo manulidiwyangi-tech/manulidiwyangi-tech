@@ -77,11 +77,11 @@
 ---
 
 <p align="center">
-  ✨ <i>Dream Big. Code Smart. Build the Future.</i> 🚀
+  🚀 <i>Always learning, building, and improving one commit at a time.</i>
   <br><br>
-  ⭐ Thanks for visiting my profile!
+  🤝 Feel free to explore my repositories and connect!
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0088cc,100:00d4ff&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,100:b565f2&height=100&section=footer" width="100%" />
 
 
